@@ -1,8 +1,9 @@
 {
   "name": "fire-breathing-unicorn",
+  "icon": "images/openart-image_btfn2koq_1737679493353_raw.jpg",
   "displayName": "Fire Breathing Unicorn",
   "description": "This unicorn is on fire.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "FireBreathingUnicorn",
   "repository": {
     "type": "git",

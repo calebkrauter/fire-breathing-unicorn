@@ -1,9 +1,4 @@
 # Change Log
 
-All notable changes to the "fire-breathing-unicorn" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+1/24/2025
+- Initial release and minor changes to extension page.

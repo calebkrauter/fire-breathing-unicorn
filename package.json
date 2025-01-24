@@ -1,0 +1,35 @@
+{
+  "name": "fire-breathing-unicorn",
+  "displayName": "Fire Breathing Unicorn",
+  "description": "This unicorn is on fire.",
+  "version": "1.0.0",
+  "publisher": "FireBreathingUnicorn",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebkrauter/fire-breathing-unicorn"
+  },
+  "keywords": [
+    "fire",
+    "fire breathing",
+    "fire breathing unicorn",
+    "unicorn",
+    "breathing",
+    "orange",
+    "sublime"
+  ],
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fire Breathing Unicorn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fire Breathing Unicorn-color-theme.json"
+      }
+    ]
+  }
+}
